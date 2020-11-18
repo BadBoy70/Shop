@@ -1,0 +1,14 @@
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Learn\Project\Shop\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\Learn\Project\Shop\Application\obj\Debug\netcoreapp3.1\Application.pdb

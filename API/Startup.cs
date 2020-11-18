@@ -29,6 +29,13 @@ namespace API
         {
             services.AddDbContext<DataContext>(op =>
             op.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddCors(op =>
+            {
+                op.AddPolicy("CorsPolicy",policy=>
+                {
+                    policy.AllowAnyHeader().AllowAnyOrigin().WithOrigins("http://localhost:3000");
+                });
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -39,7 +46,7 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();
 
             app.UseRouting();
