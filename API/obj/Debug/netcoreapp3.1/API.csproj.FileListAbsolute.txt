@@ -67,3 +67,5 @@ F:\Learn\Project\Shop\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebA
 F:\Learn\Project\Shop\API\obj\Debug\netcoreapp3.1\API.dll
 F:\Learn\Project\Shop\API\obj\Debug\netcoreapp3.1\API.pdb
 F:\Learn\Project\Shop\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+F:\Learn\Project\Shop\API\bin\Debug\netcoreapp3.1\MediatR.dll
+F:\Learn\Project\Shop\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
